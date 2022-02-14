@@ -1,4 +1,4 @@
----
+---deleted/troubleshoot all / repeat2#docs/content/authentication/troubleshooting-ssh/index.md
 title: Troubleshooting SSH
 intro: 'When using SSH to connect and authenticate to {% data variables.product.product_name %}, you may need to troubleshoot unexpected issues that may arise.'
 redirect_from:
